@@ -1,0 +1,27 @@
+body {
+  background-color: powderblue;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  border-style: double;
+  border-color: blue;
+  background-color: red;
+  width: 200px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color: green;
+}
+
+ol {
+  color: yellow;
+  font-family: cursive;
+}
